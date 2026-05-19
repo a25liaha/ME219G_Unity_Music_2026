@@ -236,11 +236,11 @@ MonoBehaviour:
   CollisionTag: 
   EventReference:
     Guid:
-      Data1: 0
-      Data2: 0
-      Data3: 0
-      Data4: 0
-    Path: 
+      Data1: -717625907
+      Data2: 1092836973
+      Data3: -1589858673
+      Data4: 956090484
+    Path: event:/Music/MusicOutside
   Event: 
   EventPlayTrigger: 0
   EventStopTrigger: 0
@@ -250,8 +250,8 @@ MonoBehaviour:
   NonRigidbodyVelocity: 0
   Params: []
   OverrideAttenuation: 0
-  OverrideMinDistance: -1
-  OverrideMaxDistance: -1
+  OverrideMinDistance: 1
+  OverrideMaxDistance: 20
 --- !u!1 &3435971774820984823
 GameObject:
   m_ObjectHideFlags: 0
@@ -449,7 +449,7 @@ MonoBehaviour:
     musicMenu: {fileID: 110158806593295546}
     music: {fileID: 5158617837186310920}
     musicIndoor: {fileID: 3808337714381539325}
-    musicOutside: {fileID: 0}
+    musicOutside: {fileID: 4205455698465118751}
     musicBoss: {fileID: 3257842776572977270}
     musicPause: {fileID: 4860983653683116548}
     ambiance: {fileID: 4318290237544591130}
