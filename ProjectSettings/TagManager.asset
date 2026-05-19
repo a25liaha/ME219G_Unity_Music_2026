@@ -32,6 +32,7 @@ TagManager:
   - MusicPause
   - SnapshotPause
   - MusicIndoor
+  - MusicOutside
   layers:
   - Default
   - TransparentFX
