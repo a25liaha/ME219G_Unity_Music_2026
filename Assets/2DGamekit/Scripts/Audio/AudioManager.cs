@@ -18,6 +18,7 @@ public class AudioManager : MonoBehaviour
         public StudioEventEmitter musicMenu;
         public StudioEventEmitter music;
         public StudioEventEmitter musicIndoor;
+        public StudioEventEmitter musicIndoor2;
         public StudioEventEmitter musicOutside;
         public StudioEventEmitter musicBoss;
         public StudioEventEmitter musicPause;
