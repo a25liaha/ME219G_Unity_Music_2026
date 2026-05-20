@@ -27672,7 +27672,17 @@ PrefabInstance:
     - target: {fileID: 3371524719925752820, guid: ac1c8692c9aeaca48ab541c2147b8923,
         type: 3}
       propertyPath: audioTriggerSettings.Array.data[0].action
-      value: 2
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371524719925752820, guid: ac1c8692c9aeaca48ab541c2147b8923,
+        type: 3}
+      propertyPath: audioTriggerSettings.Array.data[0].parameter
+      value: Progression
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371524719925752820, guid: ac1c8692c9aeaca48ab541c2147b8923,
+        type: 3}
+      propertyPath: audioTriggerSettings.Array.data[0].targetValue
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -29017,7 +29027,17 @@ PrefabInstance:
     - target: {fileID: 3371524719925752820, guid: ac1c8692c9aeaca48ab541c2147b8923,
         type: 3}
       propertyPath: audioTriggerSettings.Array.data[0].action
-      value: 2
+      value: 3
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371524719925752820, guid: ac1c8692c9aeaca48ab541c2147b8923,
+        type: 3}
+      propertyPath: audioTriggerSettings.Array.data[0].parameter
+      value: Progression
+      objectReference: {fileID: 0}
+    - target: {fileID: 3371524719925752820, guid: ac1c8692c9aeaca48ab541c2147b8923,
+        type: 3}
+      propertyPath: audioTriggerSettings.Array.data[0].targetValue
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
